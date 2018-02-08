@@ -1,0 +1,29 @@
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.pdb
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Form1.resources
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Properties.Resources.resources
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.csproj.GenerateResource.Cache
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.exe
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.pdb
+F:\electronics\arduino\CSharp\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe.config
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe.config
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.exe
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.pdb
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.pdb
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.csprojResolveAssemblyReference.cache
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Form1.resources
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Properties.Resources.resources
+C:\Users\Rebeca\Desktop\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.csproj.GenerateResource.Cache
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe.config
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.exe
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.pdb
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.pdb
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.csprojResolveAssemblyReference.cache
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Form1.resources
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.Properties.Resources.resources
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.csproj.GenerateResource.Cache
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\bin\Debug\ArduinoSerialIn.exe.config
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.exe
+C:\Users\Rebeca\Desktop\Read Temperature\Serial out to C#\ArduinoSerialIn\ArduinoSerialIn\obj\x86\Debug\ArduinoSerialIn.pdb

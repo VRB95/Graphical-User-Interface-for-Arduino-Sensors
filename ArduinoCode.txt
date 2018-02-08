@@ -1,0 +1,24 @@
+float currentTemperature;     
+
+int readTempPin = A0;             
+
+void setup() 
+{
+  
+  pinMode(readTempPin, INPUT);
+  
+  Serial.begin(9600);
+ 
+}
+
+void loop() 
+{
+
+    currentTemperature = analogRead(readTempPin);                   
+
+    currentTemperature = (currentTemperature *5.0*100.0)/1024.0;    
+
+    Serial.println(currentTemperature);                           
+    delay(2000);                    
+
+}
